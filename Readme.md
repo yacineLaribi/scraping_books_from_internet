@@ -26,7 +26,11 @@ pip install -r requirements.txt
    ```
 3. Run the scraping script:
    ```bash
-   python scrape_books.py
+   python api7.py
+   ```
+   Or:
+    ```bash
+   python scraper.py
    ```
 4. The resulting CSV files will be located in the `output/` directory.
 
